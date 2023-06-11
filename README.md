@@ -1,12 +1,22 @@
-<h1 align="center">Hi 👋, I'm Sven</h1>
-<h3 align="center">I am currently a student specialising in web development. I come from Berlin / Germany</h3>
+### Hi there 👋, my name is Sven
+#### Husband / Father / Web Developer Student
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Skills: HTML / CSS / JavaScript / LSL (Linden Script Language)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working on Learning UIB 
+- 🌱 I’m currently learning HTML / CSS / JavaScript 
+- 📫 How to reach me: sven.harrig.77@gmail.com 
+- ⚡ Fun fact: not possible does not exist. Everything is programmable. 
 
 
-[![Svennse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Svennse)](https://github.com/Svennse/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Svennse)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Svennse)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Svennse)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Svennse&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Svennse)  
+
