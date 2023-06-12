@@ -18,5 +18,4 @@ Skills: HTML / CSS / JavaScript / LSL (Linden Script Language)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Svennse&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Svennse)  
 
